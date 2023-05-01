@@ -1,0 +1,4342 @@
+{
+	"name":"br08332",
+	"children":[
+	{
+		"name":"Antibacterial",
+		"children":[
+		{
+			"name":"DG01480  Penicillin",
+			"children":[
+			{
+				"name":"D01251  Ampicillin hydrate"
+			},
+			{
+				"name":"D02119  Ampicillin sodium"
+			},
+			{
+				"name":"D00229  Amoxicillin"
+			},
+			{
+				"name":"D00927  Bacampicillin hydrochloride"
+			},
+			{
+				"name":"D00466  Piperacillin sodium"
+			},
+			{
+				"name":"D01053  Penicillin G potassium"
+			},
+			{
+				"name":"D02157  Penicillin G benzathine"
+			},
+			{
+				"name":"D02461  Penicillin G procaine"
+			},
+			{
+				"name":"D05408  Penicillin G sodium"
+			},
+			{
+				"name":"D00497  Penicillin V potassium"
+			},
+			{
+				"name":"D02137  Dicloxacillin sodium"
+			},
+			{
+				"name":"D00929  Oxacillin sodium"
+			},
+			{
+				"name":"D00928  Nafcillin sodium"
+			},
+			{
+				"name":"D01668  Sultamicillin tosilate hydrate"
+			}
+			]
+		},
+		{
+			"name":"DG01488  Cephem",
+			"children":[
+			{
+				"name":"D00263  Cefalexin"
+			},
+			{
+				"name":"D00906  Cephalexin"
+			},
+			{
+				"name":"D00907  Cephalothin sodium"
+			},
+			{
+				"name":"D00905  Cefazolin sodium"
+			},
+			{
+				"name":"D02226  Cefazolin sodium hydrate"
+			},
+			{
+				"name":"D02353  Cefadroxil"
+			},
+			{
+				"name":"D05026  Cefroxadine hydrate"
+			},
+			{
+				"name":"D00913  Cefoxitin sodium"
+			},
+			{
+				"name":"D00914  Cefuroxime axetil"
+			},
+			{
+				"name":"D00915  Cefuroxime sodium"
+			},
+			{
+				"name":"D00256  Cefaclor"
+			},
+			{
+				"name":"D02352  Cefaclor"
+			},
+			{
+				"name":"D02228  Cefotetan disodium"
+			},
+			{
+				"name":"D01819  Cefotiam hydrochloride"
+			},
+			{
+				"name":"D00911  Cefmetazole sodium"
+			},
+			{
+				"name":"D00261  Cefprozil"
+			},
+			{
+				"name":"D01909  Cefminox sodium hydrate"
+			},
+			{
+				"name":"D00919  Cefotaxime sodium"
+			},
+			{
+				"name":"D00921  Ceftazidime"
+			},
+			{
+				"name":"D00924  Ceftriaxone sodium"
+			},
+			{
+				"name":"D01739  Cefmenoxime hydrochloride"
+			},
+			{
+				"name":"D00923  Ceftizoxime sodium"
+			},
+			{
+				"name":"D07640  Cefixime"
+			},
+			{
+				"name":"D00920  Cefpodoxime proxetil"
+			},
+			{
+				"name":"D00917  Cefdinir"
+			},
+			{
+				"name":"D11571  Cefdinir monohydrate"
+			},
+			{
+				"name":"D01628  Cefditoren pivoxil"
+			},
+			{
+				"name":"D01680  Cefcapene pivoxil hydrochloride hydrate"
+			},
+			{
+				"name":"D01686  Cefteram pivoxil"
+			},
+			{
+				"name":"D01157  Cefepime hydrochloride"
+			},
+			{
+				"name":"D02233  Cefozopran hydrochloride"
+			},
+			{
+				"name":"D08884  Ceftaroline fosamil"
+			},
+			{
+				"name":"D11013  Cefiderocol sulfate tosylate"
+			}
+			]
+		},
+		{
+			"name":"DG01459  Oxacephem",
+			"children":[
+			{
+				"name":"D01473  Flomoxef sodium"
+			},
+			{
+				"name":"D02198  Moxalactam disodium"
+			}
+			]
+		},
+		{
+			"name":"DG01458  Carbapenem",
+			"children":[
+			{
+				"name":"D02222  Meropenem"
+			},
+			{
+				"name":"D04049  Ertapenem sodium"
+			},
+			{
+				"name":"D01836  Doripenem hydrate"
+			},
+			{
+				"name":"D01057  Biapenem"
+			},
+			{
+				"name":"D09598  Tebipenem pivoxil"
+			}
+			]
+		},
+		{
+			"name":"DG01580  Glycopeptide antibiotic",
+			"children":[
+			{
+				"name":"D00212  Vancomycin"
+			},
+			{
+				"name":"D00926  Vancomycin hydrochloride"
+			},
+			{
+				"name":"D02142  Teicoplanin"
+			},
+			{
+				"name":"D06057  Telavancin hydrochloride"
+			},
+			{
+				"name":"D03640  Dalbavancin"
+			},
+			{
+				"name":"D05271  Oritavancin diphosphate"
+			}
+			]
+		},
+		{
+			"name":"DG01447  Aminoglycoside antibiotic",
+			"children":[
+			{
+				"name":"D01350  Streptomycin sulfate"
+			},
+			{
+				"name":"D00063  Tobramycin"
+			},
+			{
+				"name":"D02542  Tobramycin sulfate"
+			},
+			{
+				"name":"D01063  Gentamicin sulfate"
+			},
+			{
+				"name":"D00866  Kanamycin sulfate"
+			},
+			{
+				"name":"D03262  Kanamycin sulfate"
+			},
+			{
+				"name":"D01618  Neomycin sulfate"
+			},
+			{
+				"name":"D00865  Amikacin sulfate"
+			},
+			{
+				"name":"D01753  Dibekacin sulfate"
+			},
+			{
+				"name":"D01826  Isepamicin sulfate"
+			},
+			{
+				"name":"D01523  Arbekacin sulfate"
+			},
+			{
+				"name":"D10655  Plazomicin sulfate"
+			},
+			{
+				"name":"D00869  Spectinomycin hydrochloride"
+			},
+			{
+				"name":"D00868  Paromomycin sulfate"
+			}
+			]
+		},
+		{
+			"name":"DG01197  Tetracycline antibiotic",
+			"children":[
+			{
+				"name":"D00290  Demeclocycline hydrochloride"
+			},
+			{
+				"name":"D00307  Doxycycline"
+			},
+			{
+				"name":"D02129  Doxycycline hyclate"
+			},
+			{
+				"name":"D01596  Oxytetracycline hydrochloride"
+			},
+			{
+				"name":"D02122  Tetracycline hydrochloride"
+			},
+			{
+				"name":"D00850  Minocycline hydrochloride"
+			},
+			{
+				"name":"D01079  Tigecycline"
+			},
+			{
+				"name":"D09940  Omadacycline tosylate"
+			},
+			{
+				"name":"D10421  Eravacycline dihydrochloride"
+			},
+			{
+				"name":"D10667  Sarecycline hydrochloride"
+			}
+			]
+		},
+		{
+			"name":"DG01551  Macrolide antibiotic",
+			"children":[
+			{
+				"name":"D00140  Erythromycin"
+			},
+			{
+				"name":"D01361  Erythromycin ethylsuccinate"
+			},
+			{
+				"name":"D02009  Erythromycin lactobionate"
+			},
+			{
+				"name":"D02184  Erythromycin stearate"
+			},
+			{
+				"name":"D01710  Roxithromycin"
+			},
+			{
+				"name":"D00276  Clarithromycin"
+			},
+			{
+				"name":"D07486  Azithromycin"
+			},
+			{
+				"name":"D02134  Azithromycin hydrate"
+			},
+			{
+				"name":"D06390  Azithromycin"
+			},
+			{
+				"name":"D05908  Spiramycin"
+			},
+			{
+				"name":"D02420  Acetylspiramycin"
+			},
+			{
+				"name":"D01235  Josamycin"
+			},
+			{
+				"name":"D05351  Josamycin propionate"
+			},
+			{
+				"name":"D09394  Fidaxomicin"
+			}
+			]
+		},
+		{
+			"name":"DG01578  Lincosamide antibiotic",
+			"children":[
+			{
+				"name":"D01073  Clindamycin phosphate"
+			},
+			{
+				"name":"D01990  Clindamycin palmitate hydrochloride"
+			},
+			{
+				"name":"D02132  Clindamycin hydrochloride"
+			},
+			{
+				"name":"D02346  Lincomycin hydrochloride hydrate"
+			}
+			]
+		},
+		{
+			"name":"DG01549  Fluoroquinolone",
+			"children":[
+			{
+				"name":"D00453  Ofloxacin"
+			},
+			{
+				"name":"D00186  Ciprofloxacin"
+			},
+			{
+				"name":"D02216  Ciprofloxacin hydrochloride"
+			},
+			{
+				"name":"D00210  Norfloxacin"
+			},
+			{
+				"name":"D00873  Lomefloxacin hydrochloride"
+			},
+			{
+				"name":"D00588  Levofloxacin"
+			},
+			{
+				"name":"D00874  Moxifloxacin hydrochloride"
+			},
+			{
+				"name":"D11618  Moxifloxacin hydrochloride monohydrate"
+			},
+			{
+				"name":"D08011  Gatifloxacin"
+			},
+			{
+				"name":"D00589  Gatifloxacin"
+			},
+			{
+				"name":"D01144  Prulifloxacin"
+			},
+			{
+				"name":"D05382  Pazufloxacin mesilate"
+			},
+			{
+				"name":"D02540  Garenoxacin mesylate"
+			},
+			{
+				"name":"D02475  Sitafloxacin"
+			},
+			{
+				"name":"D01996  Tosufloxacin tosylate hydrate"
+			},
+			{
+				"name":"D09331  Delafloxacin meglumine"
+			},
+			{
+				"name":"D10772  Lascufloxacin hydrochloride"
+			},
+			{
+				"name":"D01147  Nadifloxacin"
+			},
+			{
+				"name":"D08872  Besifloxacin hydrochloride"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Antiviral",
+		"children":[
+		{
+			"name":"DG03107  Anti-HIV agent",
+			"children":[
+			{
+				"name":"D00413  Zidovudine"
+			},
+			{
+				"name":"D00445  Stavudine"
+			},
+			{
+				"name":"D00353  Lamivudine"
+			},
+			{
+				"name":"D00891  Abacavir sulfate"
+			},
+			{
+				"name":"D01982  Tenofovir disoproxil fumarate"
+			},
+			{
+				"name":"D10605  Tenofovir alafenamide fumarate"
+			},
+			{
+				"name":"D01199  Emtricitabine"
+			},
+			{
+				"name":"D00435  Nevirapine"
+			},
+			{
+				"name":"D00896  Efavirenz"
+			},
+			{
+				"name":"D04112  Etravirine"
+			},
+			{
+				"name":"D09720  Rilpivirine"
+			},
+			{
+				"name":"D09958  Rilpivirine hydrochloride"
+			},
+			{
+				"name":"D10624  Doravirine"
+			},
+			{
+				"name":"D01160  Saquinavir mesylate"
+			},
+			{
+				"name":"D00897  Indinavir sulfate"
+			},
+			{
+				"name":"D00427  Ritonavir"
+			},
+			{
+				"name":"D00899  Nelfinavir mesylate"
+			},
+			{
+				"name":"D02867  Fosamprenavir calcium hydrate"
+			},
+			{
+				"name":"D03835  Fosamprenavir calcium"
+			},
+			{
+				"name":"D01276  Atazanavir sulfate"
+			},
+			{
+				"name":"D08605  Tipranavir"
+			},
+			{
+				"name":"D06478  Darunavir ethanolate"
+			},
+			{
+				"name":"D02498  Lopinavir and ritonavir"
+			},
+			{
+				"name":"D07133  Raltegravir potassium"
+			},
+			{
+				"name":"D10113  Dolutegravir sodium"
+			},
+			{
+				"name":"D10548  Cabotegravir"
+			},
+			{
+				"name":"D10549  Cabotegravir sodium"
+			},
+			{
+				"name":"D02499  Enfuvirtide"
+			},
+			{
+				"name":"D06670  Maraviroc"
+			},
+			{
+				"name":"D07507  Zidovudine and lamivudine"
+			},
+			{
+				"name":"D08775  Abacavir sulfate and lamivudine"
+			},
+			{
+				"name":"D02297  Emtricitabine and tenofovir disoproxil"
+			},
+			{
+				"name":"D10838  Abacavir, lamivudine and zidovudine"
+			},
+			{
+				"name":"D10851  Efavirenz, emtricitabine and tenofovir disoproxil"
+			},
+			{
+				"name":"D10571  Rilpivirine hydrochloride, tenofovir disoproxil fumarate and emtricitabine"
+			},
+			{
+				"name":"D10756  Elvitegravir, cobicistat, emtricitabine and tenofovir disoproxil"
+			},
+			{
+				"name":"D11392  Efavirenz, lamivudine and tenofovir disoproxil fumarate"
+			},
+			{
+				"name":"D11395  Lamivudine and tenofovir disoproxil"
+			},
+			{
+				"name":"D10600  Dolutegravir, abacavir and lamivudine"
+			},
+			{
+				"name":"D10832  Darunavir and cobicistat"
+			},
+			{
+				"name":"D10753  Atazanavir and cobicistat"
+			},
+			{
+				"name":"D10835  Emtricitabine and tenofovir alafenamide"
+			},
+			{
+				"name":"D10755  Elvitegravir, cobicistat, emtricitabine and tenofovir alafenamide"
+			},
+			{
+				"name":"D10836  Emtricitabine, rilpivirine and tenofovir alafenamide"
+			},
+			{
+				"name":"D11039  Bictegravir, emtricitabine and tenofovir alafenamide"
+			},
+			{
+				"name":"D11282  Dolutegravir sodium and rilpivirine hydrochloride"
+			},
+			{
+				"name":"D11382  Darunavir, cobicistat, emtricitabine and tenofovir alafenamide"
+			},
+			{
+				"name":"D11396  Doravirine, lamivudine and tenofovir disoproxil"
+			},
+			{
+				"name":"D11522  Dolutegravir and lamivudine"
+			}
+			]
+		},
+		{
+			"name":"DG03198  Anti-HCV agent",
+			"children":[
+			{
+				"name":"D00423  Ribavirin"
+			},
+			{
+				"name":"D10366  Sofosbuvir"
+			},
+			{
+				"name":"D10578  Ledipasvir and sofosbuvir"
+			},
+			{
+				"name":"D10582  Dasabuvir, ombitasvir, paritaprevir and ritonavir"
+			},
+			{
+				"name":"D10778  Elbasvir and grazoprevir"
+			},
+			{
+				"name":"D10827  Sofosbuvir and velpatasvir"
+			},
+			{
+				"name":"D10900  Sofosbuvir, velpatasvir and voxilaprevir"
+			},
+			{
+				"name":"D11014  Glecaprevir and pibrentasvir"
+			}
+			]
+		},
+		{
+			"name":"DG03174  Anti-SARS-CoV-2 agent",
+			"children":[
+			{
+				"name":"D11472  Remdesivir"
+			},
+			{
+				"name":"D12262  Tixagevimab and cilgavimab"
+			},
+			{
+				"name":"D12014  Sotrovimab"
+			},
+			{
+				"name":"D12142  Casirivimab and imdevimab"
+			},
+			{
+				"name":"D11943  Molnupiravir"
+			},
+			{
+				"name":"D11936  Bamlanivimab"
+			},
+			{
+				"name":"D11944  Etesevimab"
+			},
+			{
+				"name":"D12269  Nirmatrelvir and ritonavir"
+			},
+			{
+				"name":"D12174  Bebtelovimab"
+			}
+			]
+		},
+		{
+			"name":"DG03029  Anti-influenza virus agent",
+			"children":[
+			{
+				"name":"D00902  Zanamivir"
+			},
+			{
+				"name":"D01937  Zanamivir hydrate"
+			},
+			{
+				"name":"D00900  Oseltamivir phosphate"
+			},
+			{
+				"name":"D03829  Peramivir"
+			},
+			{
+				"name":"D09547  Laninamivir octanoate hydrate"
+			},
+			{
+				"name":"D11021  Baloxavir marboxil"
+			},
+			{
+				"name":"D09537  Favipiravir"
+			},
+			{
+				"name":"D00901  Rimantadine hydrochloride"
+			},
+			{
+				"name":"D00777  Amantadine hydrochloride"
+			}
+			]
+		},
+		{
+			"name":"DG02840  Anti-herpesvirus agent",
+			"children":[
+			{
+				"name":"D00222  Acyclovir"
+			},
+			{
+				"name":"D02764  Acyclovir sodium"
+			},
+			{
+				"name":"D06298  Vidarabine"
+			},
+			{
+				"name":"D00333  Ganciclovir"
+			},
+			{
+				"name":"D04301  Ganciclovir sodium"
+			},
+			{
+				"name":"D00317  Famciclovir"
+			},
+			{
+				"name":"D00398  Valacyclovir hydrochloride"
+			},
+			{
+				"name":"D10518  Valaciclovir hydrochloride hydrate"
+			},
+			{
+				"name":"D05407  Penciclovir"
+			}
+			]
+		},
+		{
+			"name":"DG01937  Anti-cytomegalovirus agent",
+			"children":[
+			{
+				"name":"D00333  Ganciclovir"
+			},
+			{
+				"name":"D04301  Ganciclovir sodium"
+			},
+			{
+				"name":"D00273  Cidofovir"
+			},
+			{
+				"name":"D03256  Valganciclovir hydrochloride"
+			},
+			{
+				"name":"D02267  Foscarnet sodium hydrate"
+			},
+			{
+				"name":"D04859  Maribavir"
+			},
+			{
+				"name":"D10801  Letermovir"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Antifungal",
+		"children":[
+		{
+			"name":"DG01883  Imidazole antifungal",
+			"children":[
+			{
+				"name":"D00416  Miconazole"
+			},
+			{
+				"name":"D00882  Miconazole nitrate"
+			},
+			{
+				"name":"D00351  Ketoconazole"
+			},
+			{
+				"name":"D00282  Clotrimazole"
+			},
+			{
+				"name":"D00881  Econazole nitrate"
+			},
+			{
+				"name":"D01480  Isoconazole nitrate"
+			},
+			{
+				"name":"D01775  Bifonazole"
+			},
+			{
+				"name":"D00886  Sulconazole nitrate"
+			},
+			{
+				"name":"D00885  Oxiconazole nitrate"
+			},
+			{
+				"name":"D08510  Sertaconazole nitrate"
+			},
+			{
+				"name":"D01980  Luliconazole"
+			},
+			{
+				"name":"D00880  Butoconazole nitrate"
+			},
+			{
+				"name":"D01092  Lanoconazole"
+			},
+			{
+				"name":"D01620  Neticonazole hydrochloride"
+			}
+			]
+		},
+		{
+			"name":"DG01523  Triazole antifungal",
+			"children":[
+			{
+				"name":"D00322  Fluconazole"
+			},
+			{
+				"name":"D01429  Fosfluconazole"
+			},
+			{
+				"name":"D00350  Itraconazole"
+			},
+			{
+				"name":"D00578  Voriconazole"
+			},
+			{
+				"name":"D02555  Posaconazole"
+			},
+			{
+				"name":"D11785  Oteseconazole"
+			},
+			{
+				"name":"D10021  Efinaconazole"
+			},
+			{
+				"name":"D10762  Fosravuconazole L-lysine ethanolate"
+			},
+			{
+				"name":"D00888  Terconazole"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Antineoplastic",
+		"children":[
+		{
+			"name":"DG03161  BCR-ABL inhibitor",
+			"children":[
+			{
+				"name":"D01441  Imatinib mesylate"
+			},
+			{
+				"name":"D03658  Dasatinib"
+			},
+			{
+				"name":"D06414  Dasatinib"
+			},
+			{
+				"name":"D06413  Nilotinib hydrochloride hydrate"
+			},
+			{
+				"name":"D09728  Bosutinib hydrate"
+			},
+			{
+				"name":"D09951  Ponatinib hydrochloride"
+			},
+			{
+				"name":"D11404  Asciminib hydrochloride"
+			}
+			]
+		},
+		{
+			"name":"DG03162  EGFR inhibitor",
+			"children":[
+			{
+				"name":"D01977  Gefitinib"
+			},
+			{
+				"name":"D04023  Erlotinib hydrochloride"
+			},
+			{
+				"name":"D09733  Afatinib dimaleate"
+			},
+			{
+				"name":"D10766  Osimertinib mesylate"
+			},
+			{
+				"name":"D10514  Dacomitinib"
+			},
+			{
+				"name":"D03455  Cetuximab"
+			},
+			{
+				"name":"D05350  Panitumumab"
+			},
+			{
+				"name":"D10018  Necitumumab"
+			},
+			{
+				"name":"D11894  Amivantamab"
+			}
+			]
+		},
+		{
+			"name":"DG03159  BRAF inhibitor",
+			"children":[
+			{
+				"name":"D09996  Vemurafenib"
+			},
+			{
+				"name":"D10104  Dabrafenib mesylate"
+			},
+			{
+				"name":"D11053  Encorafenib"
+			}
+			]
+		},
+		{
+			"name":"DG03136  ALK inhibitor",
+			"children":[
+			{
+				"name":"D09731  Crizotinib"
+			},
+			{
+				"name":"D10551  Ceritinib"
+			},
+			{
+				"name":"D10450  Alectinib hydrochloride"
+			},
+			{
+				"name":"D10866  Brigatinib"
+			},
+			{
+				"name":"D11012  Lorlatinib"
+			}
+			]
+		},
+		{
+			"name":"DG03137  MEK inhibitor",
+			"children":[
+			{
+				"name":"D10176  Trametinib dimethyl sulfoxide"
+			},
+			{
+				"name":"D10615  Cobimetinib fumarate"
+			},
+			{
+				"name":"D10604  Binimetinib"
+			},
+			{
+				"name":"D10024  Selumetinib sulfate"
+			}
+			]
+		},
+		{
+			"name":"DG03138  CDK inhibitor",
+			"children":[
+			{
+				"name":"D10372  Palbociclib"
+			},
+			{
+				"name":"D10979  Ribociclib succinate"
+			},
+			{
+				"name":"D10688  Abemaciclib"
+			}
+			]
+		},
+		{
+			"name":"DG01597  mTOR inhibitor",
+			"children":[
+			{
+				"name":"D06068  Temsirolimus"
+			},
+			{
+				"name":"D02714  Everolimus"
+			},
+			{
+				"name":"D00753  Sirolimus"
+			}
+			]
+		},
+		{
+			"name":"DG03158  HER2 inhibitor",
+			"children":[
+			{
+				"name":"D04024  Lapatinib ditosylate"
+			},
+			{
+				"name":"D10898  Neratinib maleate"
+			},
+			{
+				"name":"D11141  Tucatinib"
+			},
+			{
+				"name":"D03257  Trastuzumab"
+			},
+			{
+				"name":"D05446  Pertuzumab"
+			},
+			{
+				"name":"D09980  Trastuzumab emtansine"
+			},
+			{
+				"name":"D11529  Trastuzumab deruxtecan"
+			},
+			{
+				"name":"D10446  Margetuximab"
+			},
+			{
+				"name":"D11560  Trastuzumab and hyaluronidase"
+			}
+			]
+		},
+		{
+			"name":"DG02022  BTK inhibitor",
+			"children":[
+			{
+				"name":"D10223  Ibrutinib"
+			},
+			{
+				"name":"D10893  Acalabrutinib"
+			},
+			{
+				"name":"D11422  Zanubrutinib"
+			},
+			{
+				"name":"D11070  Tirabrutinib hydrochloride"
+			}
+			]
+		},
+		{
+			"name":"DG02942  PARP inhibitor",
+			"children":[
+			{
+				"name":"D09730  Olaparib"
+			},
+			{
+				"name":"D11895  Niraparib tosilate hydrate"
+			},
+			{
+				"name":"D10982  Rucaparib camsylate"
+			},
+			{
+				"name":"D10733  Talazoparib tosylate"
+			}
+			]
+		},
+		{
+			"name":"DG02938  Immune checkpoint inhibitor",
+			"children":[
+			{
+				"name":"D10316  Nivolumab"
+			},
+			{
+				"name":"D10574  Pembrolizumab"
+			},
+			{
+				"name":"D10808  Durvalumab"
+			},
+			{
+				"name":"D10817  Avelumab"
+			},
+			{
+				"name":"D10773  Atezolizumab"
+			},
+			{
+				"name":"D11108  Cemiplimab"
+			},
+			{
+				"name":"D11366  Dostarlimab"
+			},
+			{
+				"name":"D04603  Ipilimumab"
+			},
+			{
+				"name":"D12334  Nivolumab and relatlimab"
+			}
+			]
+		},
+		{
+			"name":"DG01596  Aromatase inhibitor",
+			"children":[
+			{
+				"name":"D00960  Anastrozole"
+			},
+			{
+				"name":"D00964  Letrozole"
+			},
+			{
+				"name":"D00963  Exemestane"
+			}
+			]
+		},
+		{
+			"name":"DG01585  Estrogen receptor antagonist",
+			"children":[
+			{
+				"name":"D00966  Tamoxifen citrate"
+			},
+			{
+				"name":"D00967  Toremifene citrate"
+			},
+			{
+				"name":"D01161  Fulvestrant"
+			},
+			{
+				"name":"D01602  Mepitiostane"
+			}
+			]
+		},
+		{
+			"name":"DG01591  Androgen receptor antagonist",
+			"children":[
+			{
+				"name":"D00586  Flutamide"
+			},
+			{
+				"name":"D00965  Nilutamide"
+			},
+			{
+				"name":"D00961  Bicalutamide"
+			},
+			{
+				"name":"D10218  Enzalutamide"
+			},
+			{
+				"name":"D11040  Apalutamide"
+			},
+			{
+				"name":"D11045  Darolutamide"
+			},
+			{
+				"name":"D09701  Abiraterone acetate"
+			},
+			{
+				"name":"D11451  Clascoterone"
+			},
+			{
+				"name":"D01299  Chlormadinone acetate"
+			}
+			]
+		},
+		{
+			"name":"DG02018  Antimetabolite",
+			"children":[
+			{
+				"name":"D00142  Methotrexate"
+			},
+			{
+				"name":"D02115  Methotrexate sodium"
+			},
+			{
+				"name":"D05589  Pralatrexate"
+			},
+			{
+				"name":"D07472  Pemetrexed"
+			},
+			{
+				"name":"D03828  Pemetrexed disodium"
+			},
+			{
+				"name":"D06503  Pemetrexed sodium hydrate"
+			},
+			{
+				"name":"D10596  Pemetrexed sodium hemipentahydrate"
+			},
+			{
+				"name":"D11352  Pemetrexed tromethamine"
+			},
+			{
+				"name":"D01907  Fludarabine phosphate"
+			},
+			{
+				"name":"D03546  Clofarabine"
+			},
+			{
+				"name":"D05134  Nelarabine"
+			},
+			{
+				"name":"D00168  Cytarabine"
+			},
+			{
+				"name":"D03046  Cytarabine ocfosfate hydrate"
+			},
+			{
+				"name":"D01155  Gemcitabine hydrochloride"
+			},
+			{
+				"name":"D03665  Decitabine"
+			},
+			{
+				"name":"D01633  Enocitabine"
+			},
+			{
+				"name":"D00584  Fluorouracil"
+			},
+			{
+				"name":"D01244  Tegafur"
+			},
+			{
+				"name":"D01223  Capecitabine"
+			},
+			{
+				"name":"D04197  Floxuridine"
+			},
+			{
+				"name":"D01309  Doxifluridine"
+			},
+			{
+				"name":"D00161  Mercaptopurine"
+			},
+			{
+				"name":"D06109  Thioguanine"
+			},
+			{
+				"name":"D01370  Cladribine"
+			},
+			{
+				"name":"D00155  Pentostatin"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Immunological agent",
+		"children":[
+		{
+			"name":"DG02020  JAK inhibitor",
+			"children":[
+			{
+				"name":"D09960  Ruxolitinib phosphate"
+			},
+			{
+				"name":"D11296  Fedratinib hydrochloride"
+			},
+			{
+				"name":"D11768  Pacritinib"
+			},
+			{
+				"name":"D09783  Tofacitinib citrate"
+			},
+			{
+				"name":"D10308  Baricitinib"
+			},
+			{
+				"name":"D10994  Upadacitinib"
+			},
+			{
+				"name":"D11048  Upadacitinib hydrate"
+			},
+			{
+				"name":"D11106  Filgotinib maleate"
+			},
+			{
+				"name":"D10721  Peficitinib hydrobromide"
+			},
+			{
+				"name":"D11400  Abrocitinib"
+			},
+			{
+				"name":"D11046  Delgocitinib"
+			}
+			]
+		},
+		{
+			"name":"DG01936  TNF inhibitor",
+			"children":[
+			{
+				"name":"D00742  Etanercept"
+			},
+			{
+				"name":"D02598  Infliximab"
+			},
+			{
+				"name":"D02597  Adalimumab"
+			},
+			{
+				"name":"D03441  Certolizumab pegol"
+			},
+			{
+				"name":"D04358  Golimumab"
+			},
+			{
+				"name":"D04687  Lenalidomide"
+			},
+			{
+				"name":"D09813  Lenalidomide hydrate"
+			}
+			]
+		},
+		{
+			"name":"DG02019  Interleukin inhibitor",
+			"children":[
+			{
+				"name":"D03058  Basiliximab"
+			},
+			{
+				"name":"D02934  Anakinra"
+			},
+			{
+				"name":"D06635  Rilonacept"
+			},
+			{
+				"name":"D09214  Ustekinumab"
+			},
+			{
+				"name":"D02596  Tocilizumab"
+			},
+			{
+				"name":"D09315  Canakinumab"
+			},
+			{
+				"name":"D09967  Secukinumab"
+			},
+			{
+				"name":"D09669  Siltuximab"
+			},
+			{
+				"name":"D10061  Brodalumab"
+			},
+			{
+				"name":"D10071  Ixekizumab"
+			},
+			{
+				"name":"D10161  Sarilumab"
+			},
+			{
+				"name":"D10438  Guselkumab"
+			},
+			{
+				"name":"D10400  Tildrakizumab"
+			},
+			{
+				"name":"D11052  Risankizumab"
+			},
+			{
+				"name":"D11079  Satralizumab"
+			},
+			{
+				"name":"D11550  Bimekizumab"
+			},
+			{
+				"name":"D12066  Spesolimab"
+			},
+			{
+				"name":"D09190  Anti-human thymocyte immunoglobulin, rabbit"
+			},
+			{
+				"name":"D01583  Pirfenidone"
+			},
+			{
+				"name":"D08985  Reslizumab"
+			},
+			{
+				"name":"D04923  Mepolizumab"
+			},
+			{
+				"name":"D09874  Benralizumab"
+			},
+			{
+				"name":"D10354  Dupilumab"
+			},
+			{
+				"name":"D09979  Tralokinumab"
+			},
+			{
+				"name":"D11080  Nemolizumab"
+			}
+			]
+		},
+		{
+			"name":"DG03129  Calcineurin inhibitor",
+			"children":[
+			{
+				"name":"D00184  Cyclosporine"
+			},
+			{
+				"name":"D00107  Tacrolimus"
+			},
+			{
+				"name":"D09033  Voclosporin"
+			},
+			{
+				"name":"D05480  Pimecrolimus"
+			}
+			]
+		},
+		{
+			"name":"DG01752  Interferone",
+			"children":[
+			{
+				"name":"D02745  Interferon alfa-2b"
+			},
+			{
+				"name":"D03305  Interferon alfa (NAMALWA)"
+			},
+			{
+				"name":"D04553  Interferon alfa-n3"
+			},
+			{
+				"name":"D00746  Interferon beta-1b"
+			},
+			{
+				"name":"D03304  Interferon beta"
+			},
+			{
+				"name":"D04554  Interferon beta-1a"
+			},
+			{
+				"name":"D00747  Interferon gamma-1b"
+			},
+			{
+				"name":"D03357  Interferon gamma-1a"
+			},
+			{
+				"name":"D02747  Peginterferon alfa-2a"
+			},
+			{
+				"name":"D10483  Peginterferon beta-1a"
+			},
+			{
+				"name":"D11027  Ropeginterferon alfa-2b"
+			}
+			]
+		},
+		{
+			"name":"DG01753  Colony stimulating factor",
+			"children":[
+			{
+				"name":"D03235  Filgrastim"
+			},
+			{
+				"name":"D03247  Lenograstim"
+			},
+			{
+				"name":"D06889  Pegfilgrastim"
+			},
+			{
+				"name":"D11188  Eflapegrastim"
+			},
+			{
+				"name":"D05803  Sargramostim"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Antidiabetic agent",
+		"children":[
+		{
+			"name":"DG01636  Insulin preparation",
+			"children":[
+			{
+				"name":"D03230  Insulin human"
+			},
+			{
+				"name":"D04547  Insulin, isophane"
+			},
+			{
+				"name":"D08080  Insulin injection, biphasic isophane"
+			},
+			{
+				"name":"D04477  Insulin lispro"
+			},
+			{
+				"name":"D04475  Insulin aspart"
+			},
+			{
+				"name":"D04540  Insulin glulisine"
+			},
+			{
+				"name":"D03250  Insulin glargine"
+			},
+			{
+				"name":"D04539  Insulin detemir"
+			},
+			{
+				"name":"D09727  Insulin degludec"
+			},
+			{
+				"name":"D10570  Insulin degludec and insulin aspart (genetical recombination)"
+			},
+			{
+				"name":"D11034  Insulin glargine and lixisenatide"
+			},
+			{
+				"name":"D11567  Insulin degludec and liraglutide"
+			}
+			]
+		},
+		{
+			"name":"DG01684  Biguanide antidiabetic",
+			"children":[
+			{
+				"name":"D00944  Metformin hydrochloride"
+			},
+			{
+				"name":"D02206  Buformin hydrochloride"
+			}
+			]
+		},
+		{
+			"name":"DG01683  Thiazolidinedione",
+			"children":[
+			{
+				"name":"D00945  Pioglitazone hydrochloride"
+			}
+			]
+		},
+		{
+			"name":"DG01734  Sulfonylurea",
+			"children":[
+			{
+				"name":"D00336  Glyburide"
+			},
+			{
+				"name":"D00271  Chlorpropamide"
+			},
+			{
+				"name":"D00335  Glipizide"
+			},
+			{
+				"name":"D01599  Gliclazide"
+			},
+			{
+				"name":"D00593  Glimepiride"
+			},
+			{
+				"name":"D00219  Acetohexamide"
+			},
+			{
+				"name":"D01799  Glyclopyramide"
+			}
+			]
+		},
+		{
+			"name":"DG01735  Glinide",
+			"children":[
+			{
+				"name":"D00594  Repaglinide"
+			},
+			{
+				"name":"D01111  Nateglinide"
+			},
+			{
+				"name":"D01854  Mitiglinide calcium hydrate"
+			}
+			]
+		},
+		{
+			"name":"DG01601  DPP-4 inhibitor",
+			"children":[
+			{
+				"name":"D06645  Sitagliptin phosphate"
+			},
+			{
+				"name":"D07080  Vildagliptin"
+			},
+			{
+				"name":"D09753  Saxagliptin hydrate"
+			},
+			{
+				"name":"D10262  Saxagliptin hydrochloride"
+			},
+			{
+				"name":"D06553  Alogliptin benzoate"
+			},
+			{
+				"name":"D09566  Linagliptin"
+			},
+			{
+				"name":"D09756  Teneligliptin hydrobromide hydrate"
+			},
+			{
+				"name":"D10179  Trelagliptin succinate"
+			},
+			{
+				"name":"D09780  Anagliptin"
+			},
+			{
+				"name":"D10317  Omarigliptin"
+			}
+			]
+		},
+		{
+			"name":"DG01493  GLP-1 receptor agonist",
+			"children":[
+			{
+				"name":"D04121  Exenatide"
+			},
+			{
+				"name":"D06404  Liraglutide"
+			},
+			{
+				"name":"D09729  Lixisenatide"
+			},
+			{
+				"name":"D09889  Dulaglutide"
+			},
+			{
+				"name":"D10025  Semaglutide"
+			},
+			{
+				"name":"D11360  Tirzepatide"
+			}
+			]
+		},
+		{
+			"name":"DG01663  alpha-Glucosidase inhibitor",
+			"children":[
+			{
+				"name":"D00216  Acarbose"
+			},
+			{
+				"name":"D00625  Miglitol"
+			},
+			{
+				"name":"D01665  Voglibose"
+			}
+			]
+		},
+		{
+			"name":"DG01794  SGLT2 inhibitor",
+			"children":[
+			{
+				"name":"D09763  Dapagliflozin propanediol"
+			},
+			{
+				"name":"D09592  Canagliflozin"
+			},
+			{
+				"name":"D10459  Empagliflozin"
+			},
+			{
+				"name":"D11043  Ertugliflozin pidolate"
+			},
+			{
+				"name":"D10196  Ipragliflozin"
+			},
+			{
+				"name":"D10200  Ipragliflozin L-proline"
+			},
+			{
+				"name":"D10195  Luseogliflozin hydrate"
+			},
+			{
+				"name":"D09978  Tofogliflozin"
+			}
+			]
+		},
+		{
+			"name":"DG02044  Hypoglycemic agent",
+			"children":[
+			{
+				"name":"D00944  Metformin hydrochloride"
+			},
+			{
+				"name":"D02206  Buformin hydrochloride"
+			},
+			{
+				"name":"D00945  Pioglitazone hydrochloride"
+			},
+			{
+				"name":"D00336  Glyburide"
+			},
+			{
+				"name":"D00271  Chlorpropamide"
+			},
+			{
+				"name":"D00335  Glipizide"
+			},
+			{
+				"name":"D01599  Gliclazide"
+			},
+			{
+				"name":"D00593  Glimepiride"
+			},
+			{
+				"name":"D00219  Acetohexamide"
+			},
+			{
+				"name":"D01799  Glyclopyramide"
+			},
+			{
+				"name":"D00594  Repaglinide"
+			},
+			{
+				"name":"D01111  Nateglinide"
+			},
+			{
+				"name":"D01854  Mitiglinide calcium hydrate"
+			},
+			{
+				"name":"D11807  Imeglimin hydrochloride"
+			},
+			{
+				"name":"D06645  Sitagliptin phosphate"
+			},
+			{
+				"name":"D07080  Vildagliptin"
+			},
+			{
+				"name":"D09753  Saxagliptin hydrate"
+			},
+			{
+				"name":"D10262  Saxagliptin hydrochloride"
+			},
+			{
+				"name":"D06553  Alogliptin benzoate"
+			},
+			{
+				"name":"D09566  Linagliptin"
+			},
+			{
+				"name":"D09756  Teneligliptin hydrobromide hydrate"
+			},
+			{
+				"name":"D10179  Trelagliptin succinate"
+			},
+			{
+				"name":"D09780  Anagliptin"
+			},
+			{
+				"name":"D10317  Omarigliptin"
+			},
+			{
+				"name":"D04121  Exenatide"
+			},
+			{
+				"name":"D06404  Liraglutide"
+			},
+			{
+				"name":"D09729  Lixisenatide"
+			},
+			{
+				"name":"D09889  Dulaglutide"
+			},
+			{
+				"name":"D10025  Semaglutide"
+			},
+			{
+				"name":"D11360  Tirzepatide"
+			},
+			{
+				"name":"D00216  Acarbose"
+			},
+			{
+				"name":"D00625  Miglitol"
+			},
+			{
+				"name":"D01665  Voglibose"
+			},
+			{
+				"name":"D09763  Dapagliflozin propanediol"
+			},
+			{
+				"name":"D09592  Canagliflozin"
+			},
+			{
+				"name":"D10459  Empagliflozin"
+			},
+			{
+				"name":"D11043  Ertugliflozin pidolate"
+			},
+			{
+				"name":"D10196  Ipragliflozin"
+			},
+			{
+				"name":"D10200  Ipragliflozin L-proline"
+			},
+			{
+				"name":"D10195  Luseogliflozin hydrate"
+			},
+			{
+				"name":"D09978  Tofogliflozin"
+			},
+			{
+				"name":"D05595  Pramlintide acetate"
+			},
+			{
+				"name":"D09744  Pioglitazone hydrochloride and metformin hydrochloride"
+			},
+			{
+				"name":"D10265  Glipizide and metformin hydrochloride"
+			},
+			{
+				"name":"D10266  Glyburide and metformin hydrochloride"
+			},
+			{
+				"name":"D10261  Metformin hydrochloride and sitagliptin phosphate"
+			},
+			{
+				"name":"D10743  Vildagliptin and metformin hydrochloride"
+			},
+			{
+				"name":"D10263  Metformin hydrochloride and saxagliptin hydrochloride"
+			},
+			{
+				"name":"D10264  Linagliptin and metformin hydrochloride"
+			},
+			{
+				"name":"D10253  Alogliptin benzoate and metformin hydrochloride"
+			},
+			{
+				"name":"D11109  Anagliptin and Metformin hydrochloride"
+			},
+			{
+				"name":"D10586  Dapagliflozin and metformin"
+			},
+			{
+				"name":"D10587  Canagliflozin and metformin"
+			},
+			{
+				"name":"D10752  Empagliflozin and metformin"
+			},
+			{
+				"name":"D11067  Ertugliflozin and metformin"
+			},
+			{
+				"name":"D09848  Pioglitazone hydrochloride and glimepiride tablets"
+			},
+			{
+				"name":"D10159  Alogliptin benzoate and pioglitazone hydrochloride"
+			},
+			{
+				"name":"D10160  Mitiglinide calcium hydrate and voglibose"
+			},
+			{
+				"name":"D10588  Empagliflozin and linagliptin"
+			},
+			{
+				"name":"D10826  Saxagliptin and dapagliflozin"
+			},
+			{
+				"name":"D11066  Ertugliflozin and sitagliptin"
+			},
+			{
+				"name":"D10897  Teneligliptin and canagliflozin"
+			},
+			{
+				"name":"D11064  Sitagliptin and ipragliflozin"
+			},
+			{
+				"name":"D11856  Empagliflozin, linagliptin and metformin hydrochloride"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Cardiovascular agent",
+		"children":[
+		{
+			"name":"DG01501  Angiotensin-converting enzyme inhibitor",
+			"children":[
+			{
+				"name":"D00251  Captopril"
+			},
+			{
+				"name":"D00621  Enalapril maleate"
+			},
+			{
+				"name":"D00362  Lisinopril"
+			},
+			{
+				"name":"D00624  Perindopril erbumine"
+			},
+			{
+				"name":"D00421  Ramipril"
+			},
+			{
+				"name":"D00459  Quinapril hydrochloride"
+			},
+			{
+				"name":"D00620  Benazepril hydrochloride"
+			},
+			{
+				"name":"D00622  Fosinopril sodium"
+			},
+			{
+				"name":"D00383  Trandolapril"
+			},
+			{
+				"name":"D01667  Delapril hydrochloride"
+			},
+			{
+				"name":"D00623  Moexipril hydrochloride"
+			},
+			{
+				"name":"D01119  Temocapril hydrochloride"
+			},
+			{
+				"name":"D01549  Imidapril hydrochloride"
+			},
+			{
+				"name":"D01900  Alacepril"
+			},
+			{
+				"name":"D03769  Enalaprilat"
+			}
+			]
+		},
+		{
+			"name":"DG01495  Angiotensin II receptor antagonist",
+			"children":[
+			{
+				"name":"D00357  Losartan potassium"
+			},
+			{
+				"name":"D00400  Valsartan"
+			},
+			{
+				"name":"D00523  Irbesartan"
+			},
+			{
+				"name":"D00626  Candesartan cilexetil"
+			},
+			{
+				"name":"D00627  Telmisartan"
+			},
+			{
+				"name":"D01204  Olmesartan medoxomil"
+			},
+			{
+				"name":"D08864  Azilsartan"
+			},
+			{
+				"name":"D08865  Azilsartan kamedoxomil"
+			}
+			]
+		},
+		{
+			"name":"DG02992  Thiazide related diuretic",
+			"children":[
+			{
+				"name":"D00272  Chlorthalidone"
+			},
+			{
+				"name":"D01877  Mefruside"
+			},
+			{
+				"name":"D00431  Metolazone"
+			},
+			{
+				"name":"D00345  Indapamide"
+			},
+			{
+				"name":"D01895  Tripamide"
+			}
+			]
+		},
+		{
+			"name":"DG01676  Aldosterone antagonist",
+			"children":[
+			{
+				"name":"D00443  Spironolactone"
+			},
+			{
+				"name":"D01943  Canrenoate potassium"
+			},
+			{
+				"name":"D01115  Eplerenone"
+			}
+			]
+		},
+		{
+			"name":"DG01928  Dihydropyridine calcium channel blocker",
+			"children":[
+			{
+				"name":"D00615  Amlodipine besylate"
+			},
+			{
+				"name":"D11881  Amlodipine benzoate"
+			},
+			{
+				"name":"D00319  Felodipine"
+			},
+			{
+				"name":"D00349  Isradipine"
+			},
+			{
+				"name":"D00617  Nicardipine hydrochloride"
+			},
+			{
+				"name":"D00437  Nifedipine"
+			},
+			{
+				"name":"D00438  Nimodipine"
+			},
+			{
+				"name":"D00618  Nisoldipine"
+			},
+			{
+				"name":"D00629  Nitrendipine"
+			},
+			{
+				"name":"D01908  Nilvadipine"
+			},
+			{
+				"name":"D01553  Manidipine hydrochloride"
+			},
+			{
+				"name":"D01104  Barnidipine hydrochloride"
+			},
+			{
+				"name":"D01173  Cilnidipine"
+			},
+			{
+				"name":"D02045  Benidipine hydrochloride"
+			},
+			{
+				"name":"D08892  Clevidipine"
+			},
+			{
+				"name":"D01145  Azelnidipine"
+			},
+			{
+				"name":"D01562  Aranidipine"
+			},
+			{
+				"name":"D01604  Efonidipine hydrochloride ethanolate"
+			}
+			]
+		},
+		{
+			"name":"DG03231  Antihypertensive",
+			"children":[
+			{
+				"name":"D00251  Captopril"
+			},
+			{
+				"name":"D00621  Enalapril maleate"
+			},
+			{
+				"name":"D00362  Lisinopril"
+			},
+			{
+				"name":"D00624  Perindopril erbumine"
+			},
+			{
+				"name":"D00421  Ramipril"
+			},
+			{
+				"name":"D00459  Quinapril hydrochloride"
+			},
+			{
+				"name":"D00620  Benazepril hydrochloride"
+			},
+			{
+				"name":"D00622  Fosinopril sodium"
+			},
+			{
+				"name":"D00383  Trandolapril"
+			},
+			{
+				"name":"D01667  Delapril hydrochloride"
+			},
+			{
+				"name":"D00623  Moexipril hydrochloride"
+			},
+			{
+				"name":"D01119  Temocapril hydrochloride"
+			},
+			{
+				"name":"D01549  Imidapril hydrochloride"
+			},
+			{
+				"name":"D01900  Alacepril"
+			},
+			{
+				"name":"D03769  Enalaprilat"
+			},
+			{
+				"name":"D00357  Losartan potassium"
+			},
+			{
+				"name":"D00400  Valsartan"
+			},
+			{
+				"name":"D00523  Irbesartan"
+			},
+			{
+				"name":"D00626  Candesartan cilexetil"
+			},
+			{
+				"name":"D00627  Telmisartan"
+			},
+			{
+				"name":"D01204  Olmesartan medoxomil"
+			},
+			{
+				"name":"D08864  Azilsartan"
+			},
+			{
+				"name":"D08865  Azilsartan kamedoxomil"
+			},
+			{
+				"name":"D06412  Aliskiren fumarate"
+			},
+			{
+				"name":"D00340  Hydrochlorothiazide"
+			},
+			{
+				"name":"D00519  Chlorothiazide"
+			},
+			{
+				"name":"D03471  Chlorothiazide sodium"
+			},
+			{
+				"name":"D00658  Trichlormethiazide"
+			},
+			{
+				"name":"D01246  Benzylhydrochlorothiazide"
+			},
+			{
+				"name":"D00272  Chlorthalidone"
+			},
+			{
+				"name":"D01877  Mefruside"
+			},
+			{
+				"name":"D00431  Metolazone"
+			},
+			{
+				"name":"D00345  Indapamide"
+			},
+			{
+				"name":"D01895  Tripamide"
+			},
+			{
+				"name":"D00443  Spironolactone"
+			},
+			{
+				"name":"D01943  Canrenoate potassium"
+			},
+			{
+				"name":"D01115  Eplerenone"
+			},
+			{
+				"name":"D00386  Triamterene"
+			},
+			{
+				"name":"D00615  Amlodipine besylate"
+			},
+			{
+				"name":"D11881  Amlodipine benzoate"
+			},
+			{
+				"name":"D00319  Felodipine"
+			},
+			{
+				"name":"D00349  Isradipine"
+			},
+			{
+				"name":"D00617  Nicardipine hydrochloride"
+			},
+			{
+				"name":"D00437  Nifedipine"
+			},
+			{
+				"name":"D00438  Nimodipine"
+			},
+			{
+				"name":"D00618  Nisoldipine"
+			},
+			{
+				"name":"D00629  Nitrendipine"
+			},
+			{
+				"name":"D01908  Nilvadipine"
+			},
+			{
+				"name":"D01553  Manidipine hydrochloride"
+			},
+			{
+				"name":"D01104  Barnidipine hydrochloride"
+			},
+			{
+				"name":"D01173  Cilnidipine"
+			},
+			{
+				"name":"D02045  Benidipine hydrochloride"
+			},
+			{
+				"name":"D08892  Clevidipine"
+			},
+			{
+				"name":"D01145  Azelnidipine"
+			},
+			{
+				"name":"D01562  Aranidipine"
+			},
+			{
+				"name":"D01604  Efonidipine hydrochloride ethanolate"
+			},
+			{
+				"name":"D00616  Diltiazem hydrochloride"
+			},
+			{
+				"name":"D00405  Methyldopa"
+			},
+			{
+				"name":"D00281  Clonidine"
+			},
+			{
+				"name":"D00604  Clonidine hydrochloride"
+			},
+			{
+				"name":"D00605  Guanabenz acetate"
+			},
+			{
+				"name":"D01302  Hydralazine hydrochloride"
+			},
+			{
+				"name":"D00515  Nitroglycerin"
+			},
+			{
+				"name":"D00614  Sodium nitroprusside"
+			},
+			{
+				"name":"D00601  Metoprolol tartrate"
+			},
+			{
+				"name":"D00635  Metoprolol succinate"
+			},
+			{
+				"name":"D00235  Atenolol"
+			},
+			{
+				"name":"D00598  Betaxolol hydrochloride"
+			},
+			{
+				"name":"D02342  Bisoprolol"
+			},
+			{
+				"name":"D00634  Bisoprolol fumarate"
+			},
+			{
+				"name":"D01741  Celiprolol hydrochloride"
+			},
+			{
+				"name":"D06622  Nebivolol hydrochloride"
+			},
+			{
+				"name":"D00513  Pindolol"
+			},
+			{
+				"name":"D00483  Propranolol hydrochloride"
+			},
+			{
+				"name":"D00432  Nadolol"
+			},
+			{
+				"name":"D00599  Carteolol hydrochloride"
+			},
+			{
+				"name":"D00600  Labetalol hydrochloride"
+			},
+			{
+				"name":"D00255  Carvedilol"
+			},
+			{
+				"name":"D03415  Carvedilol phosphate"
+			},
+			{
+				"name":"D01369  Bevantolol hydrochloride"
+			},
+			{
+				"name":"D01469  Amosulalol hydrochloride"
+			},
+			{
+				"name":"D01830  Arotinolol hydrochloride"
+			},
+			{
+				"name":"D01691  Nipradilol"
+			},
+			{
+				"name":"D00609  Prazosin hydrochloride"
+			},
+			{
+				"name":"D00608  Doxazosin mesylate"
+			},
+			{
+				"name":"D01333  Urapidil"
+			},
+			{
+				"name":"D00610  Terazosin hydrochloride"
+			},
+			{
+				"name":"D11585  Terazosin hydrochloride anhydrous"
+			},
+			{
+				"name":"D01887  Bunazosin hydrochloride"
+			},
+			{
+				"name":"D00509  Phentolamine mesylate"
+			},
+			{
+				"name":"D10277  Enalapril maleate and hydrochlorothiazide"
+			},
+			{
+				"name":"D10268  Hydrochlorothiazide and lisinopril"
+			},
+			{
+				"name":"D10278  Quinapril hydrochloride and hydrochlorothiazide"
+			},
+			{
+				"name":"D10279  Benazepril hydrochloride and hydrochlorothiazide"
+			},
+			{
+				"name":"D10280  Fosinopril and hydrochlorothiazide"
+			},
+			{
+				"name":"D11581  Perindopril and amlodipine"
+			},
+			{
+				"name":"D10282  Trandolapril and verapamil hydrochloride"
+			},
+			{
+				"name":"D07895  Losartan potassium and hydrochlorothiazide"
+			},
+			{
+				"name":"D09197  Valsartan and hydrochlorothiazide"
+			},
+			{
+				"name":"D10249  Irbesartan and hydrochlorothiazide"
+			},
+			{
+				"name":"D10480  Irbesartan and trichlormethiazide"
+			},
+			{
+				"name":"D09196  Candesartan cilexetil and hydrochlorothiazide"
+			},
+			{
+				"name":"D09219  Telmisartan and hydrochlorothiazide"
+			},
+			{
+				"name":"D10284  Olmesartan medoxomil and hydrochlorothiazide"
+			},
+			{
+				"name":"D10589  Azilsartan medoxomil and chlorthalidone"
+			},
+			{
+				"name":"D09745  Valsartan and amlodipine besilate"
+			},
+			{
+				"name":"D10285  Amlodipine besylate and olmesartan medoxomil"
+			},
+			{
+				"name":"D09743  Telmisartan and amlodipine besilate"
+			},
+			{
+				"name":"D10243  Irbesartan and amlodipine besilate"
+			},
+			{
+				"name":"D07569  Candesartan cilexetil and anmlodipine besylate"
+			},
+			{
+				"name":"D09594  Olmesartan medoxomil and azelnidipine"
+			},
+			{
+				"name":"D10524  Azilsartan and amlodipine besilate"
+			},
+			{
+				"name":"D10525  Valsartan and cilnidipine"
+			},
+			{
+				"name":"D10286  Amlodipine, valsartan and hydrochlorothiazide"
+			},
+			{
+				"name":"D10288  Olmesartan medoxomil, amlodipine besylate and hydrochlorothiazide"
+			},
+			{
+				"name":"D10226  Sacubitril valsartan sodium hydrate"
+			},
+			{
+				"name":"D10805  Telmisartan, amlodipine and hydrochlorothiazide"
+			}
+			]
+		},
+		{
+			"name":"DG01653  Antiarrhythmics",
+			"children":[
+			{
+				"name":"D00642  Quinidine gluconate"
+			},
+			{
+				"name":"D02272  Quinidine sulfate"
+			},
+			{
+				"name":"D00477  Procainamide hydrochloride"
+			},
+			{
+				"name":"D00303  Disopyramide"
+			},
+			{
+				"name":"D00637  Disopyramide phosphate"
+			},
+			{
+				"name":"D01455  Cifenline succinate"
+			},
+			{
+				"name":"D01785  Pirmenol hydrochloride hydrate"
+			},
+			{
+				"name":"D00358  Lidocaine"
+			},
+			{
+				"name":"D02086  Lidocaine hydrochloride"
+			},
+			{
+				"name":"D08127  Lidocaine hydrochloride monohydrate"
+			},
+			{
+				"name":"D00639  Mexiletine hydrochloride"
+			},
+			{
+				"name":"D01326  Aprindine hydrochloride"
+			},
+			{
+				"name":"D00640  Propafenone hydrochloride"
+			},
+			{
+				"name":"D00638  Flecainide acetate"
+			},
+			{
+				"name":"D01554  Pilsicainide hydrochloride hydrate"
+			},
+			{
+				"name":"D00636  Amiodarone hydrochloride"
+			},
+			{
+				"name":"D00647  Dofetilide"
+			},
+			{
+				"name":"D00648  Ibutilide fumarate"
+			},
+			{
+				"name":"D03914  Dronedarone hydrochloride"
+			},
+			{
+				"name":"D01026  Sotalol hydrochloride"
+			},
+			{
+				"name":"D01856  Nifekalant hydrochloride"
+			},
+			{
+				"name":"D00513  Pindolol"
+			},
+			{
+				"name":"D00483  Propranolol hydrochloride"
+			},
+			{
+				"name":"D00432  Nadolol"
+			},
+			{
+				"name":"D00599  Carteolol hydrochloride"
+			},
+			{
+				"name":"D00601  Metoprolol tartrate"
+			},
+			{
+				"name":"D00635  Metoprolol succinate"
+			},
+			{
+				"name":"D00235  Atenolol"
+			},
+			{
+				"name":"D00597  Acebutolol hydrochloride"
+			},
+			{
+				"name":"D02342  Bisoprolol"
+			},
+			{
+				"name":"D00634  Bisoprolol fumarate"
+			},
+			{
+				"name":"D00644  Esmolol hydrochloride"
+			},
+			{
+				"name":"D01847  Landiolol hydrochloride"
+			},
+			{
+				"name":"D01504  Bufetolol hydrochloride"
+			},
+			{
+				"name":"D01830  Arotinolol hydrochloride"
+			},
+			{
+				"name":"D00619  Verapamil hydrochloride"
+			},
+			{
+				"name":"D00631  Bepridil hydrochloride"
+			},
+			{
+				"name":"D00298  Digoxin"
+			},
+			{
+				"name":"D01240  Deslanoside"
+			},
+			{
+				"name":"D02587  Metildigoxin"
+			},
+			{
+				"name":"D00616  Diltiazem hydrochloride"
+			}
+			]
+		},
+		{
+			"name":"DG01946  Hypolipidemic agent",
+			"children":[
+			{
+				"name":"D00434  Simvastatin"
+			},
+			{
+				"name":"D00359  Lovastatin"
+			},
+			{
+				"name":"D00893  Pravastatin sodium"
+			},
+			{
+				"name":"D00892  Fluvastatin sodium"
+			},
+			{
+				"name":"D02258  Atorvastatin calcium"
+			},
+			{
+				"name":"D11095  Atorvastatin calcium propylene glycol solvate"
+			},
+			{
+				"name":"D01915  Rosuvastatin calcium"
+			},
+			{
+				"name":"D01862  Pitavastatin calcium"
+			},
+			{
+				"name":"D10568  Pitavastatin calcium hydrate"
+			},
+			{
+				"name":"D11092  Pitavastatin magnesium"
+			},
+			{
+				"name":"D00279  Clofibrate"
+			},
+			{
+				"name":"D01366  Bezafibrate"
+			},
+			{
+				"name":"D00334  Gemfibrozil"
+			},
+			{
+				"name":"D00565  Fenofibrate"
+			},
+			{
+				"name":"D08890  Choline fenofibrate"
+			},
+			{
+				"name":"D10711  Pemafibrate"
+			},
+			{
+				"name":"D02690  Cholestyramine resin"
+			},
+			{
+				"name":"D02113  Colestipol hydrochloride"
+			},
+			{
+				"name":"D03582  Colesevelam hydrochloride"
+			},
+			{
+				"name":"D01934  Colestilan chloride"
+			},
+			{
+				"name":"D01754  Niceritrol"
+			},
+			{
+				"name":"D01530  Tocopherol nicotinate"
+			},
+			{
+				"name":"D01291  Nicomol"
+			},
+			{
+				"name":"D10557  Evolocumab"
+			},
+			{
+				"name":"D10335  Alirocumab"
+			},
+			{
+				"name":"D12293  Inclisiran sodium"
+			},
+			{
+				"name":"D00476  Probucol"
+			},
+			{
+				"name":"D05255  Omega-3-acid ethyl esters"
+			},
+			{
+				"name":"D01892  Icosapent ethyl"
+			},
+			{
+				"name":"D01966  Ezetimibe"
+			},
+			{
+				"name":"D09638  Lomitapide mesylate"
+			},
+			{
+				"name":"D10691  Bempedoic acid"
+			},
+			{
+				"name":"D03343  Dextran sulfate sodium sulfur 5"
+			},
+			{
+				"name":"D04268  Elastase ES"
+			},
+			{
+				"name":"D01221  gamma Oryzanol"
+			},
+			{
+				"name":"D01913  Riboflavin butyrate"
+			},
+			{
+				"name":"D01234  Pantethine"
+			},
+			{
+				"name":"D04267  Polyenephosphatidyl choline"
+			},
+			{
+				"name":"D10385  Ezetimibe and atorvastatin"
+			},
+			{
+				"name":"D11520  Ezetimibe and rosuvastatin"
+			},
+			{
+				"name":"D12438  Pitavastatin calcium and ezetimibe"
+			},
+			{
+				"name":"D08488  Amlodipine besilate and atorvastatin calcium"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Neuropsychiatric agent",
+		"children":[
+		{
+			"name":"DG01730  Non-selective monoamine reuptake inhibitor",
+			"children":[
+			{
+				"name":"D00812  Desipramine hydrochloride"
+			},
+			{
+				"name":"D00815  Imipramine hydrochloride"
+			},
+			{
+				"name":"D08071  Imipramine pamoate"
+			},
+			{
+				"name":"D00811  Clomipramine hydrochloride"
+			},
+			{
+				"name":"D02408  Trimipramine maleate"
+			},
+			{
+				"name":"D01285  Lofepramine hydrochloride"
+			},
+			{
+				"name":"D00809  Amitriptyline hydrochloride"
+			},
+			{
+				"name":"D00816  Nortriptyline hydrochloride"
+			},
+			{
+				"name":"D00484  Protriptyline hydrochloride"
+			},
+			{
+				"name":"D00814  Doxepin hydrochloride"
+			},
+			{
+				"name":"D01546  Dothiepin hydrochloride"
+			},
+			{
+				"name":"D00228  Amoxapine"
+			},
+			{
+				"name":"D00818  Maprotiline hydrochloride"
+			}
+			]
+		},
+		{
+			"name":"DG01659  Selective serotonin reuptake inhibitor (SSRI)",
+			"children":[
+			{
+				"name":"D00823  Fluoxetine hydrochloride"
+			},
+			{
+				"name":"D00822  Citalopram hydrobromide"
+			},
+			{
+				"name":"D02260  Paroxetine hydrochloride hemihydrate"
+			},
+			{
+				"name":"D05374  Paroxetine hydrochloride"
+			},
+			{
+				"name":"D05375  Paroxetine mesylate"
+			},
+			{
+				"name":"D00825  Sertraline hydrochloride"
+			},
+			{
+				"name":"D00824  Fluvoxamine maleate"
+			},
+			{
+				"name":"D02567  Escitalopram oxalate"
+			}
+			]
+		},
+		{
+			"name":"DG03202  Hypnotic",
+			"children":[
+			{
+				"name":"D01372  Zopiclone"
+			},
+			{
+				"name":"D00706  Zolpidem tartrate"
+			},
+			{
+				"name":"D00530  Zaleplon"
+			},
+			{
+				"name":"D02624  Eszopiclone"
+			},
+			{
+				"name":"D00695  Flurazepam hydrochloride"
+			},
+			{
+				"name":"D01408  Flurazepam hydrochloride"
+			},
+			{
+				"name":"D00531  Nitrazepam"
+			},
+			{
+				"name":"D01230  Flunitrazepam"
+			},
+			{
+				"name":"D00311  Estazolam"
+			},
+			{
+				"name":"D00387  Triazolam"
+			},
+			{
+				"name":"D01657  Lormetazepam"
+			},
+			{
+				"name":"D00370  Temazepam"
+			},
+			{
+				"name":"D01744  Brotizolam"
+			},
+			{
+				"name":"D00457  Quazepam"
+			},
+			{
+				"name":"D01514  Etizolam"
+			},
+			{
+				"name":"D01758  Haloxazolam"
+			},
+			{
+				"name":"D01564  Rilmazafone hydrochloride hydrate"
+			},
+			{
+				"name":"D02689  Ramelteon"
+			},
+			{
+				"name":"D10082  Suvorexant"
+			},
+			{
+				"name":"D11022  Lemborexant"
+			}
+			]
+		},
+		{
+			"name":"DG01967  Antiparkinson agent",
+			"children":[
+			{
+				"name":"D00059  Levodopa"
+			},
+			{
+				"name":"D00780  Bromocriptine mesylate"
+			},
+			{
+				"name":"D00502  Pergolide mesylate"
+			},
+			{
+				"name":"D00784  Ropinirole hydrochloride"
+			},
+			{
+				"name":"D00559  Pramipexole dihydrochloride"
+			},
+			{
+				"name":"D00987  Cabergoline"
+			},
+			{
+				"name":"D02004  Apomorphine hydrochloride"
+			},
+			{
+				"name":"D05768  Rotigotine"
+			},
+			{
+				"name":"D00558  Carbidopa"
+			},
+			{
+				"name":"D01277  Droxidopa"
+			},
+			{
+				"name":"D10293  Carbidopa, levodopa and entacapone"
+			},
+			{
+				"name":"D00786  Tolcapone"
+			},
+			{
+				"name":"D00781  Entacapone"
+			},
+			{
+				"name":"D10825  Opicapone"
+			},
+			{
+				"name":"D00253  Carbidopa hydrate and levodopa"
+			},
+			{
+				"name":"D02135  Levodopa and benserazide hydrochloride"
+			},
+			{
+				"name":"D00777  Amantadine hydrochloride"
+			},
+			{
+				"name":"D03731  Selegiline"
+			},
+			{
+				"name":"D00785  Selegiline hydrochloride"
+			},
+			{
+				"name":"D02562  Rasagiline mesylate"
+			},
+			{
+				"name":"D10191  Safinamide mesylate"
+			},
+			{
+				"name":"D00787  Trihexyphenidyl hydrochloride"
+			},
+			{
+				"name":"D02246  Biperiden hydrochloride"
+			},
+			{
+				"name":"D02247  Biperiden lactate"
+			},
+			{
+				"name":"D03264  Mazaticol hydrochloride hydrate"
+			},
+			{
+				"name":"D01231  Piroheptine hydrochloride"
+			},
+			{
+				"name":"D04641  Istradefylline"
+			}
+			]
+		},
+		{
+			"name":"DG01968  Antidementia agent",
+			"children":[
+			{
+				"name":"D00670  Donepezil hydrochloride"
+			},
+			{
+				"name":"D03822  Rivastigmine"
+			},
+			{
+				"name":"D02558  Rivastigmine tartrate"
+			},
+			{
+				"name":"D02173  Galantamine hydrobromide"
+			},
+			{
+				"name":"D04905  Memantine hydrochloride"
+			},
+			{
+				"name":"D10541  Aducanumab"
+			},
+			{
+				"name":"D11387  Memantine and donepezil"
+			}
+			]
+		},
+		{
+			"name":"DG03199  Antiepileptic agent",
+			"children":[
+			{
+				"name":"D00252  Carbamazepine"
+			},
+			{
+				"name":"D00533  Oxcarbazepine"
+			},
+			{
+				"name":"D05775  Rufinamide"
+			},
+			{
+				"name":"D09612  Eslicarbazepine acetate"
+			},
+			{
+				"name":"D00354  Lamotrigine"
+			},
+			{
+				"name":"D00538  Zonisamide"
+			},
+			{
+				"name":"D07299  Lacosamide"
+			},
+			{
+				"name":"D00709  Levetiracetam"
+			},
+			{
+				"name":"D08879  Brivaracetam"
+			},
+			{
+				"name":"D00537  Topiramate"
+			},
+			{
+				"name":"D10780  Perampanel hydrate"
+			},
+			{
+				"name":"D00708  Ethotoin"
+			},
+			{
+				"name":"D00512  Phenytoin"
+			},
+			{
+				"name":"D02103  Phenytoin sodium"
+			},
+			{
+				"name":"D02096  Fosphenytoin sodium"
+			},
+			{
+				"name":"D07595  Fosphenytoin sodium hydrate"
+			},
+			{
+				"name":"D00058  gamma-Aminobutyric acid"
+			},
+			{
+				"name":"D00535  Vigabatrin"
+			},
+			{
+				"name":"D02097  Tiagabine hydrochloride"
+			},
+			{
+				"name":"D00332  Gabapentin"
+			},
+			{
+				"name":"D09539  Gabapentin enacarbil"
+			},
+			{
+				"name":"D02716  Pregabalin"
+			},
+			{
+				"name":"D00399  Valproic acid"
+			},
+			{
+				"name":"D00304  Divalproex sodium"
+			},
+			{
+				"name":"D00710  Valproate sodium"
+			},
+			{
+				"name":"D00506  Phenobarbital"
+			},
+			{
+				"name":"D00701  Phenobarbital sodium"
+			},
+			{
+				"name":"D00474  Primidone"
+			},
+			{
+				"name":"D00280  Clonazepam"
+			},
+			{
+				"name":"D01253  Clobazam"
+			},
+			{
+				"name":"D00531  Nitrazepam"
+			},
+			{
+				"name":"D00550  Midazolam"
+			},
+			{
+				"name":"D00696  Midazolam hydrochloride"
+			},
+			{
+				"name":"D00293  Diazepam"
+			},
+			{
+				"name":"D00365  Lorazepam"
+			},
+			{
+				"name":"D00392  Trimethadione"
+			},
+			{
+				"name":"D00539  Ethosuximide"
+			},
+			{
+				"name":"D00404  Methsuximide"
+			},
+			{
+				"name":"D01787  Sulthiame"
+			},
+			{
+				"name":"D05928  Stiripentol"
+			},
+			{
+				"name":"D01409  Acetylpheneturide"
+			},
+			{
+				"name":"D01731  Potassium bromide"
+			},
+			{
+				"name":"D02055  Sodium bromide"
+			},
+			{
+				"name":"D07583  Phenytoin and phenobarbital"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Anti-allergic agent",
+		"children":[
+		{
+			"name":"DG01482  Histamine receptor H1 antagonist",
+			"children":[
+			{
+				"name":"D00480  Promethazine hydrochloride"
+			},
+			{
+				"name":"D03290  Promethazine methylenedisalicylate"
+			},
+			{
+				"name":"D08768  Promethazine hibenzate"
+			},
+			{
+				"name":"D00666  Clemastine fumarate"
+			},
+			{
+				"name":"D00300  Diphenhydramine"
+			},
+			{
+				"name":"D00669  Diphenhydramine hydrochloride"
+			},
+			{
+				"name":"D03360  Diphenhydramine laurylsulfate"
+			},
+			{
+				"name":"D00520  Dimenhydrinate"
+			},
+			{
+				"name":"D01717  Levocabastine hydrochloride"
+			},
+			{
+				"name":"D00659  Azelastine hydrochloride"
+			},
+			{
+				"name":"D01192  Olopatadine hydrochloride"
+			},
+			{
+				"name":"D01336  Carbinoxamine maleate"
+			},
+			{
+				"name":"D00668  Dexchlorpheniramine maleate"
+			},
+			{
+				"name":"D00665  Chlorpheniramine maleate"
+			},
+			{
+				"name":"D02245  Trimeprazine tartrate"
+			},
+			{
+				"name":"D01324  Mequitazine"
+			},
+			{
+				"name":"D01317  Meclizine hydrochloride"
+			},
+			{
+				"name":"D01773  Oxatomide"
+			},
+			{
+				"name":"D00664  Cetirizine hydrochloride"
+			},
+			{
+				"name":"D08118  Levocetirizine dihydrochloride"
+			},
+			{
+				"name":"D02234  Cyproheptadine hydrochloride"
+			},
+			{
+				"name":"D00364  Loratadine"
+			},
+			{
+				"name":"D01332  Ketotifen fumarate"
+			},
+			{
+				"name":"D01478  Ebastine"
+			},
+			{
+				"name":"D01713  Epinastine hydrochloride"
+			},
+			{
+				"name":"D00671  Fexofenadine hydrochloride"
+			},
+			{
+				"name":"D03693  Desloratadine"
+			},
+			{
+				"name":"D08497  Rupatadine fumarate"
+			},
+			{
+				"name":"D09570  Bilastine"
+			},
+			{
+				"name":"D02249  Emedastine difumarate"
+			},
+			{
+				"name":"D06552  Alcaftadine"
+			},
+			{
+				"name":"D01902  Fonazine mesylate"
+			},
+			{
+				"name":"D00789  Chlorpromazine hydrochloride"
+			},
+			{
+				"name":"D04034  Chlorpromazine phenolphthalinate"
+			},
+			{
+				"name":"D00454  Olanzapine"
+			},
+			{
+				"name":"D06623  Olanzapine pamoate"
+			},
+			{
+				"name":"D00458  Quetiapine fumarate"
+			},
+			{
+				"name":"D00672  Hydroxyzine hydrochloride"
+			},
+			{
+				"name":"D01096  Hydroxyzine pamoate"
+			},
+			{
+				"name":"D01654  Bepotastine besylate"
+			},
+			{
+				"name":"D01460  Homochlorcyclizine hydrochloride"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Anti-inflammatory",
+		"children":[
+		{
+			"name":"DG01955  Corticosteroid",
+			"children":[
+			{
+				"name":"D00407  Methylprednisolone"
+			},
+			{
+				"name":"D00751  Methylprednisolone sodium succinate"
+			},
+			{
+				"name":"D00979  Methylprednisolone acetate"
+			},
+			{
+				"name":"D00088  Hydrocortisone"
+			},
+			{
+				"name":"D00165  Hydrocortisone acetate"
+			},
+			{
+				"name":"D00977  Hydrocortisone sodium phosphate"
+			},
+			{
+				"name":"D00978  Hydrocortisone sodium succinate"
+			},
+			{
+				"name":"D01619  Hydrocortisone butyrate"
+			},
+			{
+				"name":"D01886  Hydrocortisone probutate"
+			},
+			{
+				"name":"D02288  Hydrocortisone valerate"
+			},
+			{
+				"name":"D00472  Prednisolone"
+			},
+			{
+				"name":"D00980  Prednisolone acetate"
+			},
+			{
+				"name":"D00981  Prednisolone sodium phosphate"
+			},
+			{
+				"name":"D01239  Prednisolone sodium succinate"
+			},
+			{
+				"name":"D03301  Prednisolone valerate acetate"
+			},
+			{
+				"name":"D01273  Clobetasone butyrate"
+			},
+			{
+				"name":"D01367  Fluorometholone"
+			},
+			{
+				"name":"D04221  Fluorometholone acetate"
+			},
+			{
+				"name":"D03696  Desonide"
+			},
+			{
+				"name":"D00385  Triamcinolone"
+			},
+			{
+				"name":"D00983  Triamcinolone acetonide"
+			},
+			{
+				"name":"D01820  Alclometasone dipropionate"
+			},
+			{
+				"name":"D00292  Dexamethasone"
+			},
+			{
+				"name":"D00975  Dexamethasone sodium phosphate"
+			},
+			{
+				"name":"D01510  Dexamethasone metasulfobenzoate sodium"
+			},
+			{
+				"name":"D01615  Dexamethasone palmitate"
+			},
+			{
+				"name":"D01632  Dexamethasone dipropionate"
+			},
+			{
+				"name":"D01948  Dexamethasone valerate"
+			},
+			{
+				"name":"D07073  Dexamethasone cipecilate"
+			},
+			{
+				"name":"D02287  Clocortolone pivalate"
+			},
+			{
+				"name":"D00244  Betamethasone"
+			},
+			{
+				"name":"D00972  Betamethasone sodium phosphate"
+			},
+			{
+				"name":"D01357  Betamethasone valerate"
+			},
+			{
+				"name":"D01637  Betamethasone dipropionate"
+			},
+			{
+				"name":"D02032  Betamethasone butyrate propionate"
+			},
+			{
+				"name":"D03697  Desoximetasone"
+			},
+			{
+				"name":"D01825  Fluocinolone acetonide"
+			},
+			{
+				"name":"D01764  Diflucortolone valerate"
+			},
+			{
+				"name":"D00328  Flurandrenolide"
+			},
+			{
+				"name":"D00325  Fluocinonide"
+			},
+			{
+				"name":"D00246  Budesonide"
+			},
+			{
+				"name":"D01327  Diflorasone diacetate"
+			},
+			{
+				"name":"D01387  Amcinonide"
+			},
+			{
+				"name":"D00690  Mometasone furoate"
+			},
+			{
+				"name":"D03325  Mometasone furoate hydrate"
+			},
+			{
+				"name":"D00689  Beclomethasone dipropionate"
+			},
+			{
+				"name":"D11572  Beclomethasone dipropionate monohydrate"
+			},
+			{
+				"name":"D01708  Fluticasone propionate"
+			},
+			{
+				"name":"D06315  Fluticasone furoate"
+			},
+			{
+				"name":"D05601  Prednicarbate"
+			},
+			{
+				"name":"D01266  Difluprednate"
+			},
+			{
+				"name":"D04409  Halobetasol propionate"
+			},
+			{
+				"name":"D01272  Clobetasol propionate"
+			},
+			{
+				"name":"D01308  Halcinonide"
+			},
+			{
+				"name":"D00473  Prednisone"
+			},
+			{
+				"name":"D00973  Cortisone acetate"
+			},
+			{
+				"name":"D03671  Deflazacort"
+			},
+			{
+				"name":"D00324  Flunisolide"
+			},
+			{
+				"name":"D01703  Ciclesonide"
+			},
+			{
+				"name":"D01689  Loteprednol etabonate"
+			},
+			{
+				"name":"D01434  Deprodone propionate"
+			},
+			{
+				"name":"D00986  Fludrocortisone acetate"
+			}
+			]
+		},
+		{
+			"name":"DG01504  Nonsteroidal anti-inflammatory drug (NSAID)",
+			"children":[
+			{
+				"name":"D01762  Dipyrone"
+			},
+			{
+				"name":"D07816  Diclofenac"
+			},
+			{
+				"name":"D00903  Diclofenac potassium"
+			},
+			{
+				"name":"D00904  Diclofenac sodium"
+			},
+			{
+				"name":"D07818  Diclofenac hydroxyethylpyrrolidine"
+			},
+			{
+				"name":"D01675  Felbinac"
+			},
+			{
+				"name":"D03163  Bromfenac sodium"
+			},
+			{
+				"name":"D00141  Indomethacin"
+			},
+			{
+				"name":"D01565  Indometacin farnesil"
+			},
+			{
+				"name":"D02110  Indomethacin sodium"
+			},
+			{
+				"name":"D01582  Acemetacin"
+			},
+			{
+				"name":"D01765  Proglumetacin maleate"
+			},
+			{
+				"name":"D00120  Sulindac"
+			},
+			{
+				"name":"D00315  Etodolac"
+			},
+			{
+				"name":"D00813  Ketorolac tromethamine"
+			},
+			{
+				"name":"D01594  Bendazac"
+			},
+			{
+				"name":"D05143  Nepafenac"
+			},
+			{
+				"name":"D00127  Piroxicam"
+			},
+			{
+				"name":"D01866  Lornoxicam"
+			},
+			{
+				"name":"D00969  Meloxicam"
+			},
+			{
+				"name":"D01397  Ampiroxicam"
+			},
+			{
+				"name":"D00126  Ibuprofen"
+			},
+			{
+				"name":"D01122  Ibuprofen piconol"
+			},
+			{
+				"name":"D06606  Ibuprofen lysine"
+			},
+			{
+				"name":"D00118  Naproxen"
+			},
+			{
+				"name":"D00970  Naproxen sodium"
+			},
+			{
+				"name":"D00132  Ketoprofen"
+			},
+			{
+				"name":"D00968  Fenoprofen calcium"
+			},
+			{
+				"name":"D00452  Suprofen"
+			},
+			{
+				"name":"D00330  Flurbiprofen"
+			},
+			{
+				"name":"D01475  Flurbiprofen axetil"
+			},
+			{
+				"name":"D02290  Flurbiprofen sodium"
+			},
+			{
+				"name":"D00463  Oxaprozin"
+			},
+			{
+				"name":"D01709  Loxoprofen sodium hydrate"
+			},
+			{
+				"name":"D01578  Pranoprofen"
+			},
+			{
+				"name":"D01547  Zaltoprofen"
+			},
+			{
+				"name":"D00151  Mefenamic acid"
+			},
+			{
+				"name":"D01823  Ufenamate"
+			},
+			{
+				"name":"D03254  Flufenamate aluminum"
+			},
+			{
+				"name":"D00169  Meclofenamate sodium"
+			},
+			{
+				"name":"D00567  Celecoxib"
+			},
+			{
+				"name":"D00315  Etodolac"
+			},
+			{
+				"name":"D01866  Lornoxicam"
+			},
+			{
+				"name":"D00969  Meloxicam"
+			},
+			{
+				"name":"D00425  Nabumetone"
+			},
+			{
+				"name":"D01547  Zaltoprofen"
+			},
+			{
+				"name":"D00109  Aspirin"
+			},
+			{
+				"name":"D00566  Sodium salicylate"
+			},
+			{
+				"name":"D01466  Ethenzamide"
+			},
+			{
+				"name":"D00130  Diflunisal"
+			},
+			{
+				"name":"D00448  Sulfasalazine"
+			},
+			{
+				"name":"D00377  Mesalamine"
+			},
+			{
+				"name":"D00727  Olsalazine sodium"
+			},
+			{
+				"name":"D02715  Balsalazide disodium"
+			},
+			{
+				"name":"D01087  Methyl salicylate"
+			},
+			{
+				"name":"D01037  1,4-Dimethyl-7-isopropylazulene"
+			},
+			{
+				"name":"D02075  Sodium gualenate"
+			},
+			{
+				"name":"D02706  Sodium gualenate hydrate"
+			},
+			{
+				"name":"D01341  Tiaramide hydrochloride"
+			},
+			{
+				"name":"D01661  Bucolome"
+			},
+			{
+				"name":"D02264  Dipotassium glycyrrhizinate"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Antirheumatic agent",
+		"children":[
+		{
+			"name":"DG01985  Disease modifying anti-rheumatic drug (DMARD)",
+			"children":[
+			{
+				"name":"D00992  Gold sodium thiomalate"
+			},
+			{
+				"name":"D00237  Auranofin"
+			},
+			{
+				"name":"D00496  Penicillamine"
+			},
+			{
+				"name":"D01809  Bucillamine"
+			},
+			{
+				"name":"D01146  Iguratimod"
+			},
+			{
+				"name":"D00448  Sulfasalazine"
+			},
+			{
+				"name":"D01395  Actarit"
+			},
+			{
+				"name":"D00749  Leflunomide"
+			},
+			{
+				"name":"D00107  Tacrolimus"
+			},
+			{
+				"name":"D00238  Azathioprine"
+			},
+			{
+				"name":"D03033  Azathioprine sodium"
+			},
+			{
+				"name":"D00142  Methotrexate"
+			},
+			{
+				"name":"D02115  Methotrexate sodium"
+			},
+			{
+				"name":"D01392  Mizoribine"
+			},
+			{
+				"name":"D09960  Ruxolitinib phosphate"
+			},
+			{
+				"name":"D11296  Fedratinib hydrochloride"
+			},
+			{
+				"name":"D11768  Pacritinib"
+			},
+			{
+				"name":"D09783  Tofacitinib citrate"
+			},
+			{
+				"name":"D10308  Baricitinib"
+			},
+			{
+				"name":"D10994  Upadacitinib"
+			},
+			{
+				"name":"D11048  Upadacitinib hydrate"
+			},
+			{
+				"name":"D11106  Filgotinib maleate"
+			},
+			{
+				"name":"D10721  Peficitinib hydrobromide"
+			},
+			{
+				"name":"D11400  Abrocitinib"
+			},
+			{
+				"name":"D11046  Delgocitinib"
+			},
+			{
+				"name":"D03203  Abatacept"
+			},
+			{
+				"name":"D00742  Etanercept"
+			},
+			{
+				"name":"D02598  Infliximab"
+			},
+			{
+				"name":"D02597  Adalimumab"
+			},
+			{
+				"name":"D03441  Certolizumab pegol"
+			},
+			{
+				"name":"D04358  Golimumab"
+			},
+			{
+				"name":"D04687  Lenalidomide"
+			},
+			{
+				"name":"D09813  Lenalidomide hydrate"
+			},
+			{
+				"name":"D02596  Tocilizumab"
+			},
+			{
+				"name":"D10161  Sarilumab"
+			},
+			{
+				"name":"D03684  Denosumab"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Gastrointestinal agent",
+		"children":[
+		{
+			"name":"DG01481  Histamine receptor H2 antagonist",
+			"children":[
+			{
+				"name":"D00295  Cimetidine"
+			},
+			{
+				"name":"D03503  Cimetidine hydrochloride"
+			},
+			{
+				"name":"D00673  Ranitidine hydrochloride"
+			},
+			{
+				"name":"D00318  Famotidine"
+			},
+			{
+				"name":"D00440  Nizatidine"
+			},
+			{
+				"name":"D01467  Roxatidine acetate hydrochloride"
+			},
+			{
+				"name":"D01131  Lafutidine"
+			}
+			]
+		},
+		{
+			"name":"DG01646  Proton pump inhibitor (PPI)",
+			"children":[
+			{
+				"name":"D00455  Omeprazole"
+			},
+			{
+				"name":"D05261  Omeprazole sodium injection"
+			},
+			{
+				"name":"D05259  Omeprazole magnesium"
+			},
+			{
+				"name":"D02593  Pantoprazole sodium"
+			},
+			{
+				"name":"D00355  Lansoprazole"
+			},
+			{
+				"name":"D00724  Rabeprazole sodium"
+			},
+			{
+				"name":"D01984  Esomeprazole magnesium"
+			},
+			{
+				"name":"D04056  Esomeprazole sodium"
+			},
+			{
+				"name":"D10120  Esomeprazole strontium"
+			},
+			{
+				"name":"D11114  Esomeprazole magnesium dihydrate"
+			},
+			{
+				"name":"D08903  Dexlansoprazole"
+			},
+			{
+				"name":"D10466  Vonoprazan fumarate"
+			}
+			]
+		},
+		{
+			"name":"DG01770  Laxative",
+			"children":[
+			{
+				"name":"D00245  Bisacodyl"
+			},
+			{
+				"name":"D06462  Castor oil"
+			},
+			{
+				"name":"D03418  Aromatic castor oil"
+			},
+			{
+				"name":"D02171  Sennosides"
+			},
+			{
+				"name":"D04396  Cascara sagrada"
+			},
+			{
+				"name":"D01612  Sodium picosulfate hydrate"
+			},
+			{
+				"name":"D03306  Calcium polycarbophil"
+			},
+			{
+				"name":"D01446  Magnesium carbonate"
+			},
+			{
+				"name":"D01167  Magnesium oxide"
+			},
+			{
+				"name":"D01108  Magnesium sulfate"
+			},
+			{
+				"name":"D00352  Lactulose"
+			},
+			{
+				"name":"D00028  Glycerin"
+			},
+			{
+				"name":"D06618  Methylnaltrexone bromide"
+			},
+			{
+				"name":"D02878  Alvimopan"
+			},
+			{
+				"name":"D10375  Naloxegol oxalate"
+			},
+			{
+				"name":"D10478  Naldemedine tosylate"
+			},
+			{
+				"name":"D04790  Lubiprostone"
+			},
+			{
+				"name":"D09355  Linaclotide"
+			},
+			{
+				"name":"D10152  Prucalopride succinate"
+			},
+			{
+				"name":"D01544  Carboxymethylcellulose sodium"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Endocrine and hormonal agent",
+		"children":[
+		{
+			"name":"DG01986  Estrogen",
+			"children":[
+			{
+				"name":"D00554  Ethinyl estradiol"
+			},
+			{
+				"name":"D00105  Estradiol"
+			},
+			{
+				"name":"D01413  Estradiol valerate"
+			},
+			{
+				"name":"D04061  Estradiol acetate"
+			},
+			{
+				"name":"D04063  Estradiol cypionate"
+			},
+			{
+				"name":"D07918  Estradiol hemihydrate"
+			},
+			{
+				"name":"D00185  Estriol"
+			},
+			{
+				"name":"D04070  Estrogens, conjugated"
+			},
+			{
+				"name":"D04071  Estrogens, esterified"
+			}
+			]
+		},
+		{
+			"name":"DG02004  Progesterone",
+			"children":[
+			{
+				"name":"D00182  Norethindrone"
+			},
+			{
+				"name":"D00953  Norethindrone acetate"
+			},
+			{
+				"name":"D00950  Levonorgestrel"
+			},
+			{
+				"name":"D00952  Megestrol acetate"
+			},
+			{
+				"name":"D00951  Medroxyprogesterone acetate"
+			},
+			{
+				"name":"D04104  Etonogestrel"
+			},
+			{
+				"name":"D01159  Gestonorone caproate"
+			},
+			{
+				"name":"D00949  Hydroxyprogesterone caproate"
+			},
+			{
+				"name":"D00066  Progesterone"
+			},
+			{
+				"name":"D01217  Dydrogesterone"
+			},
+			{
+				"name":"D01299  Chlormadinone acetate"
+			},
+			{
+				"name":"D03799  Dienogest"
+			}
+			]
+		},
+		{
+			"name":"DG01584  Estrogen receptor agonist",
+			"children":[
+			{
+				"name":"D00554  Ethinyl estradiol"
+			},
+			{
+				"name":"D00105  Estradiol"
+			},
+			{
+				"name":"D01413  Estradiol valerate"
+			},
+			{
+				"name":"D04061  Estradiol acetate"
+			},
+			{
+				"name":"D04063  Estradiol cypionate"
+			},
+			{
+				"name":"D07918  Estradiol hemihydrate"
+			},
+			{
+				"name":"D00185  Estriol"
+			},
+			{
+				"name":"D04070  Estrogens, conjugated"
+			},
+			{
+				"name":"D01602  Mepitiostane"
+			},
+			{
+				"name":"D04071  Estrogens, esterified"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Musculo-skeletal system agent",
+		"children":[
+		{
+			"name":"DG03232  Osteoporosis agent",
+			"children":[
+			{
+				"name":"D00314  Etidronate disodium"
+			},
+			{
+				"name":"D00941  Pamidronate disodium"
+			},
+			{
+				"name":"D00939  Alendronate sodium"
+			},
+			{
+				"name":"D04486  Ibandronate sodium"
+			},
+			{
+				"name":"D00942  Risedronate sodium"
+			},
+			{
+				"name":"D03234  Sodium risedronate hydrate"
+			},
+			{
+				"name":"D11570  Risedronate sodium monohydrate"
+			},
+			{
+				"name":"D01968  Zoledronic acid"
+			},
+			{
+				"name":"D09198  Minodronic acid hydrate"
+			},
+			{
+				"name":"D03684  Denosumab"
+			},
+			{
+				"name":"D01338  Ipriflavone"
+			},
+			{
+				"name":"D00105  Estradiol"
+			},
+			{
+				"name":"D00185  Estriol"
+			},
+			{
+				"name":"D02217  Raloxifene hydrochloride"
+			},
+			{
+				"name":"D10606  Raloxifene hydrochloride hydrate"
+			},
+			{
+				"name":"D03062  Bazedoxifene acetate"
+			},
+			{
+				"name":"D03287  Elcatonin"
+			},
+			{
+				"name":"D00249  Calcitonin salmon"
+			},
+			{
+				"name":"D00937  Calcium phosphate, dihydrate, dibasic"
+			},
+			{
+				"name":"D01598  Calcium L-aspartate hydrate"
+			},
+			{
+				"name":"D06078  Teriparatide"
+			},
+			{
+				"name":"D03358  Teriparatide acetate"
+			},
+			{
+				"name":"D10885  Abaloparatide"
+			},
+			{
+				"name":"D11563  Abaloparatide acetate"
+			},
+			{
+				"name":"D00100  Menatetrenone"
+			},
+			{
+				"name":"D01518  Alfacalcidol"
+			},
+			{
+				"name":"D00129  Calcitriol"
+			},
+			{
+				"name":"D07578  Eldecalcitol"
+			},
+			{
+				"name":"D01375  Methenolone acetate"
+			},
+			{
+				"name":"D10156  Romosozumab"
+			},
+			{
+				"name":"D10841  Alendronic acid and colecalciferol"
+			},
+			{
+				"name":"D04454  Testosterone enanthate and estradiol valerate"
+			},
+			{
+				"name":"D09187  Estradiol and levonorgestrel"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Dermatological agent",
+		"children":[
+		{
+			"name":"DG03243  Atopic dermatitis agent",
+			"children":[
+			{
+				"name":"D01272  Clobetasol propionate"
+			},
+			{
+				"name":"D01327  Diflorasone diacetate"
+			},
+			{
+				"name":"D02032  Betamethasone butyrate propionate"
+			},
+			{
+				"name":"D01637  Betamethasone dipropionate"
+			},
+			{
+				"name":"D01764  Diflucortolone valerate"
+			},
+			{
+				"name":"D00325  Fluocinonide"
+			},
+			{
+				"name":"D01387  Amcinonide"
+			},
+			{
+				"name":"D00690  Mometasone furoate"
+			},
+			{
+				"name":"D01266  Difluprednate"
+			},
+			{
+				"name":"D01886  Hydrocortisone probutate"
+			},
+			{
+				"name":"D01357  Betamethasone valerate"
+			},
+			{
+				"name":"D01825  Fluocinolone acetonide"
+			},
+			{
+				"name":"D01632  Dexamethasone dipropionate"
+			},
+			{
+				"name":"D01948  Dexamethasone valerate"
+			},
+			{
+				"name":"D01434  Deprodone propionate"
+			},
+			{
+				"name":"D01273  Clobetasone butyrate"
+			},
+			{
+				"name":"D01619  Hydrocortisone butyrate"
+			},
+			{
+				"name":"D00983  Triamcinolone acetonide"
+			},
+			{
+				"name":"D01820  Alclometasone dipropionate"
+			},
+			{
+				"name":"D00292  Dexamethasone"
+			},
+			{
+				"name":"D03301  Prednisolone valerate acetate"
+			},
+			{
+				"name":"D08733  Dexamethasone and glyteer"
+			},
+			{
+				"name":"D00244  Betamethasone"
+			},
+			{
+				"name":"D00407  Methylprednisolone"
+			},
+			{
+				"name":"D00385  Triamcinolone"
+			},
+			{
+				"name":"D00088  Hydrocortisone"
+			},
+			{
+				"name":"D00973  Cortisone acetate"
+			},
+			{
+				"name":"D00975  Dexamethasone sodium phosphate"
+			},
+			{
+				"name":"D00979  Methylprednisolone acetate"
+			},
+			{
+				"name":"D01239  Prednisolone sodium succinate"
+			},
+			{
+				"name":"D00978  Hydrocortisone sodium succinate"
+			},
+			{
+				"name":"D01122  Ibuprofen piconol"
+			},
+			{
+				"name":"D00452  Suprofen"
+			},
+			{
+				"name":"D01823  Ufenamate"
+			},
+			{
+				"name":"D01594  Bendazac"
+			},
+			{
+				"name":"D00107  Tacrolimus"
+			},
+			{
+				"name":"D00184  Cyclosporine"
+			},
+			{
+				"name":"D11046  Delgocitinib"
+			},
+			{
+				"name":"D10308  Baricitinib"
+			},
+			{
+				"name":"D11048  Upadacitinib hydrate"
+			},
+			{
+				"name":"D11400  Abrocitinib"
+			},
+			{
+				"name":"D11314  Difamilast"
+			},
+			{
+				"name":"D10354  Dupilumab"
+			},
+			{
+				"name":"D11080  Nemolizumab"
+			},
+			{
+				"name":"D01192  Olopatadine hydrochloride"
+			},
+			{
+				"name":"D01324  Mequitazine"
+			},
+			{
+				"name":"D01773  Oxatomide"
+			},
+			{
+				"name":"D00664  Cetirizine hydrochloride"
+			},
+			{
+				"name":"D08118  Levocetirizine dihydrochloride"
+			},
+			{
+				"name":"D00364  Loratadine"
+			},
+			{
+				"name":"D00659  Azelastine hydrochloride"
+			},
+			{
+				"name":"D01478  Ebastine"
+			},
+			{
+				"name":"D01713  Epinastine hydrochloride"
+			},
+			{
+				"name":"D00671  Fexofenadine hydrochloride"
+			},
+			{
+				"name":"D03693  Desloratadine"
+			},
+			{
+				"name":"D08497  Rupatadine fumarate"
+			},
+			{
+				"name":"D09570  Bilastine"
+			},
+			{
+				"name":"D02249  Emedastine difumarate"
+			},
+			{
+				"name":"D01096  Hydroxyzine pamoate"
+			},
+			{
+				"name":"D01654  Bepotastine besylate"
+			},
+			{
+				"name":"D02027  Tranilast"
+			},
+			{
+				"name":"D01423  Suplatast tosilate"
+			},
+			{
+				"name":"D08806  Histamine dihydrochloride and human normal immunoglobulin"
+			},
+			{
+				"name":"D00006  Pyridoxal phosphate hydrate"
+			},
+			{
+				"name":"D00023  Urea"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Ophthalmic agent",
+		"children":[
+		{
+			"name":"DG03201  Intraocular pressure lowering agent",
+			"children":[
+			{
+				"name":"D01017  Dipivefrin hydrochloride"
+			},
+			{
+				"name":"D01008  Apraclonidine hydrochloride"
+			},
+			{
+				"name":"D02076  Brimonidine tartrate"
+			},
+			{
+				"name":"D02200  Pilocarpine hydrochloride"
+			},
+			{
+				"name":"D00524  Carbachol"
+			},
+			{
+				"name":"D01228  Distigmine bromide"
+			},
+			{
+				"name":"D02193  Echothiophate iodide"
+			},
+			{
+				"name":"D00999  Acetylcholine chloride"
+			},
+			{
+				"name":"D00218  Acetazolamide"
+			},
+			{
+				"name":"D01196  Acetazolamide sodium"
+			},
+			{
+				"name":"D00518  Dichlorphenamide"
+			},
+			{
+				"name":"D00653  Dorzolamide hydrochloride"
+			},
+			{
+				"name":"D00652  Brinzolamide"
+			},
+			{
+				"name":"D00655  Methazolamide"
+			},
+			{
+				"name":"D00378  Timolol"
+			},
+			{
+				"name":"D00603  Timolol maleate"
+			},
+			{
+				"name":"D00598  Betaxolol hydrochloride"
+			},
+			{
+				"name":"D01025  Levobunolol hydrochloride"
+			},
+			{
+				"name":"D00599  Carteolol hydrochloride"
+			},
+			{
+				"name":"D01691  Nipradilol"
+			},
+			{
+				"name":"D01887  Bunazosin hydrochloride"
+			},
+			{
+				"name":"D00356  Latanoprost"
+			},
+			{
+				"name":"D01452  Isopropyl unoprostone"
+			},
+			{
+				"name":"D02724  Bimatoprost"
+			},
+			{
+				"name":"D01964  Travoprost"
+			},
+			{
+				"name":"D06274  Tafluprost"
+			},
+			{
+				"name":"D10441  Latanoprostene bunod"
+			},
+			{
+				"name":"D10966  Omidenepag isopropyl"
+			},
+			{
+				"name":"D03648  Dapiprazole hydrochloride"
+			},
+			{
+				"name":"D11031  Netarsudil mesylate"
+			},
+			{
+				"name":"D10463  Ripasudil hydrochloride hydrate"
+			},
+			{
+				"name":"D11558  Netarsudil and latanoprost"
+			},
+			{
+				"name":"D10512  Brinzolamide and timolol maleate"
+			},
+			{
+				"name":"D08493  Dorzolamide hydrochloride and timolol maleate"
+			},
+			{
+				"name":"D10298  Brimonidine tartrate and timolol maleate"
+			},
+			{
+				"name":"D10854  Brinzolamide and brimonidine tartrate"
+			},
+			{
+				"name":"D07505  Latanoprost and timolol maleate"
+			},
+			{
+				"name":"D09815  Travoprost and timolol maleate"
+			},
+			{
+				"name":"D10569  Tafluprost and timolol maleate"
+			},
+			{
+				"name":"D10804  Carteolol and latanoprost"
+			},
+			{
+				"name":"D12437  Ripasudil hydrochloride and brimonidine tartrate"
+			}
+			]
+		}
+		]
+	}
+	]
+}
+
